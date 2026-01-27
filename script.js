@@ -1,0 +1,1 @@
+console.log('SafeSpace v2 loaded');
