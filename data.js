@@ -6,4 +6,4 @@ const locations = [
     {name: "Five", petFriendly: true, lgbtqOwned: false, blackOwned: false, womanOwned: false, estType: 'retail'}
 ];
 
-export { locations };
+module.exports = { locations };
